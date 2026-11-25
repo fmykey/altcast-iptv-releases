@@ -1,9 +1,0 @@
-{
-  "versionCode": 9,
-  "versionName": "1.4.3",
-  "apk": "Altcast-IPTV.apk",
-  "sha256": "0765758dcd7458aa0d884a7b28b5b8a2dd55f7d5987ac12e25fce5dda76af460",
-  "minSupportedCode": 0,
-  "mandatory": false,
-  "notes": "First Altcast IPTV release"
-}
